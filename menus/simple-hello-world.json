@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle simple-hello-world",
-        "command": "simple-hello-world:toggle"
+        "command": "simple-hello-world:insert"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "simple-hello-world:toggle"
+              "command": "simple-hello-world:insert"
             }
           ]
         }

@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "simple-hello-world:toggle"
+    "atom-workspace": "simple-hello-world:insert"
   },
   "repository": "https://github.com/iamsenthilprabu/simple-hello-world",
   "license": "MIT",
