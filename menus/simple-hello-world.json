@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle simple-hello-world",
+        "command": "simple-hello-world:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "simple-hello-world",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "simple-hello-world:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
