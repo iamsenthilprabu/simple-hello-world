@@ -1,5 +1,5 @@
 {
-  "name": "simple-hello-world",
+  "name": "Simple Hello World",
   "main": "./lib/simple-hello-world",
   "version": "0.0.1",
   "description": "A simple hello world package for atom editor.",

@@ -1,4 +1,4 @@
-# simple-hello-world package
+# Simple Hello World Package
 
 A simple hello world package for atom editor.
 
