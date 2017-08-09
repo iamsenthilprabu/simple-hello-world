@@ -18,7 +18,7 @@ After installing this package, please restart Atom Editor.
 
 ## Usage
 
-simple-hello-world:insert or ctrl-shift-h will inset the text 'Hello World!'
+simple-hello-world:insert or ctrl-shift-h will inset the text 'Hello World'
 
 ### Contribute
 
