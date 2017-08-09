@@ -1,14 +1,14 @@
 {
   "name": "simple-hello-world",
   "main": "./lib/simple-hello-world",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "A simple hello world package for atom editor.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "simple-hello-world:toggle"
   },
-  "repository": "https://github.com/atom/simple-hello-world",
+  "repository": "https://github.com/iamsenthilprabu/simple-hello-world",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
