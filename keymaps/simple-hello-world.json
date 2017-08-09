@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "simple-hello-world:toggle"
+    "ctrl-shift-h": "simple-hello-world:insert"
   }
 }
