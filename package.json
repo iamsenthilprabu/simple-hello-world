@@ -3,10 +3,16 @@
   "main": "./lib/simple-hello-world",
   "version": "0.2.0",
   "description": "A simple hello world package for atom editor.",
-  "keywords": [],
+  "author": "Senthilprabu Ponnusamy",
+  "keywords": [
+    "simple",
+    "hello",
+    "world"
+  ],
   "activationCommands": {
     "atom-workspace": "simple-hello-world:insert"
   },
+  "homepage": "https://atom.io/packages/simple-hello-world",
   "repository": "https://github.com/iamsenthilprabu/simple-hello-world",
   "license": "MIT",
   "engines": {
