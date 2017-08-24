@@ -9,19 +9,16 @@ A simple hello world package for atom editor.
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
 
 
-
 ## Installation
 
 Go to `Settings > Install` and then search for `simple-hello-world` under `Packages`.
 
-After installing this package, please restart Atom Editor.
-
 ## Usage
 
 You can insert 'Hello World' by any of the following methods
-1. Command Palette - simple-hello-world:insert
-2. Keyboard Shortcut - ctrl-shift-h
-3. Context Menu - Insert Hello World
+* Command Palette - simple-hello-world:insert
+* Keyboard Shortcut - ctrl-shift-h
+* Context Menu - Insert Hello World
 
 ### Contribute
 
