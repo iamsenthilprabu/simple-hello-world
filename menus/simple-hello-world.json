@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Insert Hello World",
+        "label": "Insert Simple Hello World",
         "command": "simple-hello-world:insert"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "simple-hello-world",
+          "label": "Simple Hello World",
           "submenu": [
             {
               "label": "Insert",
